@@ -38,3 +38,10 @@ built step-by-step as part of my ML Engineering learning journey.
 
 ## How to Run
 Open the notebooks in Google Colab or Jupyter and run all cells in order.
+
+
+## Key Learnings
+- Understood the bias-variance tradeoff and how it connects to model complexity
+- Learned why RMSE is preferred over MSE for interpretability
+- Practiced identifying multicollinearity using correlation heatmaps and VIF
+- Explored how threshold tuning affects precision-recall tradeoff in classification
